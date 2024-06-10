@@ -1,6 +1,6 @@
 # main text of home
-title: John Doe
-bio: A Person who travels the world eating noodles
+title: Soumyo Dey
+bio: Your front-row seat to my thoughts, insights, and experiences in product management, AI, and entrepreneurship.
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -8,7 +8,7 @@ description: A blog about technology and stuff related
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/profile.jpg
+picture: assets/images/profile.jpeg
 
 # your site color theme, true for dark theme, 
 # false to light theme, auto to switch with system.
@@ -16,12 +16,12 @@ dark-theme: auto
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
-resume: true
+resume: false
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: https://sergiokopplin.github.io/indigo
-# your url: https://USERNAME.github.io
+# url: https://sergiokopplin.github.io/indigo
+url: https://ace139.github.io
 
 permalink: /:title/
 
@@ -34,26 +34,26 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
-instagram: myinstagram
-linkedin: mylinkedin
-github: mygithub
-email: myemail@gmail.com
+#facebook: myfacebook
+twitter: heySoumyo
+instagram: soumyo_dey
+linkedin: soumyo-dey
+github: ace139
+email: heysoumyo@gmail.com
 
 authors:
-  johndoe:
+  soumyo:
     name: John Doe
     bio: A Man who travels the world eating noodles
     external-image: false
     picture: assets/images/profile.jpg
     twitter: johndoe
-  jamesfoster:
-    name: James Foster
-    bio: A Man who develops software with coffee
-    external-image: false
-    picture: assets/images/james.jpg
-    twitter: jamesfoster
+  # jamesfoster:
+  #   name: James Foster
+  #   bio: A Man who develops software with coffee
+  #   external-image: false
+  #   picture: assets/images/james.jpg
+  #   twitter: jamesfoster
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
@@ -61,7 +61,7 @@ authors:
 width: normal
 
 # if you don't need projects, comment the *projects* configs below
-projects: true
+# projects: true
 
 # if you don't need "about" or "blog", comment them out below
 about: true
